@@ -1,0 +1,27 @@
+# Xcode kullanıcı verileri ve oluşturulan çıktılar
+DerivedData/
+build/
+.build/
+*.xcuserstate
+xcuserdata/
+*.log
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+*.ipa
+
+# macOS
+.DS_Store
+*.swp
+
+# Yerel geliştirme yardımcıları
+*.rb
+
+# Yerel yapılandırma ve imzalama dosyaları
+rc_api_key.txt
+*.p8
+*.p12
+*.mobileprovision
+.env
+.env.*
+Config.local.xcconfig

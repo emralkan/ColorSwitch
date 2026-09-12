@@ -1,0 +1,103 @@
+"HIGH_SCORE" = "HIGH SCORE: %d";
+"TAP_TO_PLAY" = "TAP TO PLAY";
+
+"JOKER_MODE" = "🃏 JOKER MODE";
+
+"GAME_OVER" = "GAME OVER";
+"SCORE" = "SCORE: %d";
+"BEST" = "BEST: %d";
+"PLAY_AGAIN" = "PLAY AGAIN";
+"SHARE_SCORE" = "📤  SHARE SCORE";
+"CONTINUE_COST" = "▶ CONTINUE  ⭐%d";
+"WATCH_AD_CONTINUE" = "🎬 Watch Ad = Free Continue";
+"NEW_BEST" = "🎉 NEW BEST! 🎉";
+"SHARE_TEXT" = "I scored %@ in Chromity! 🎮🔥 Can you beat me?";
+"AD_NOT_AVAILABLE" = "Ad not available.\nPlease try again later.";
+
+"SETTINGS" = "SETTINGS";
+"PRIVACY_POLICY" = "🔒  Privacy Policy";
+"CONTACT_US" = "📧  Contact Us";
+"HAPTICS_ON" = "📳  Haptics: ON";
+"HAPTICS_OFF" = "📴  Haptics: OFF";
+"SOUND_ON" = "🔊  Sound: ON";
+"SOUND_OFF" = "🔇  Sound: OFF";
+
+"STORE" = "STORE";
+"SHAPES" = "SHAPES";
+"PHYSICS" = "PHYSICS";
+"FREE_STARS" = "🎁 FREE 50 STARS 📺";
+"EQUIPPED" = "EQUIPPED";
+"OWNED" = "OWNED";
+"WATCH_AD" = "🎬 AD";
+"WATCH_AD_UNLOCK" = "🎬 Watch an ad to unlock";
+"WATCH" = "🎬 WATCH";
+"CLOSE" = "CLOSE";
+"BUY" = "BUY";
+"NEED_COINS" = "NEED COINS";
+"NOT_ENOUGH_STARS" = "Not enough stars! ⭐\nPlay or watch an ad to earn more.";
+
+"PAUSED" = "PAUSED";
+"RESUME" = "RESUME";
+"QUIT" = "QUIT";
+"ARE_YOU_SURE" = "Are you sure?";
+"YES" = "YES";
+"NO" = "NO";
+
+"BACKGROUNDS" = "BACKGROUNDS";
+"CUSTOM_PHOTO" = "Custom Photo";
+
+"COLOR_MATCHING" = "Color Matching Challenge";
+"MATCH_JUMP_SURVIVE" = "Match. Jump. Survive.";
+"HOW_TO_PLAY" = "HOW TO PLAY";
+"TAP_TO_JUMP" = "Tap to Jump";
+"TAP_SCREEN_TO_JUMP" = "Tap screen to jump up";
+"MATCH_COLORS" = "Match Colors";
+"PASS_THROUGH_COLOR" = "Pass through your color";
+"COLLECT_STARS" = "Collect Stars";
+"USE_COINS_DIE" = "Use coins when you die";
+"PRO_TIPS" = "PRO TIPS";
+"EARN_COINS" = "Earn Coins";
+"EARN_COINS_DESC" = "Pass obstacles to earn coins";
+"POWER_BAR" = "Power Bar";
+"FILL_SHIELD_DESC" = "Fill the bar for a shield";
+"CUSTOMIZE" = "Customize";
+"UNLOCK_SKINS_BG" = "Unlock skins & backgrounds";
+"LETS_GO" = "LET'S GO! 🚀";
+"TAP_TO_CONTINUE" = "Tap to continue →";
+"TAP_BUTTON_START" = "Tap button to start!";
+
+"DAILY_MISSIONS" = "DAILY MISSIONS";
+"MISSION_SUBTITLE" = "Complete missions to earn stars!";
+"CLAIM" = "CLAIM";
+"CHALLENGES" = "CHALLENGES";
+"CHALLENGE_SUBTITLE" = "Reach the target score to unlock next level!";
+"LEVEL_N" = "LEVEL %d";
+"COMPLETE" = "COMPLETE!";
+"REWARD" = "Reward: ⭐ %d";
+"NEXT_LEVEL" = "NEXT LEVEL";
+"MAIN_MENU" = "MAIN MENU";
+"GOAL" = "GOAL: %d";
+"MISSION_PLAY_GAMES" = "Play %d Games";
+"MISSION_COLLECT_STARS" = "Collect %d Stars";
+"MISSION_REACH_SCORE" = "Reach Score %d";
+"MISSION_COLLECT_JOKERS" = "Catch %d Jokers";
+"CLAIMED" = "CLAIMED";
+"GET_REWARD" = "GET ⭐%d";
+
+"REVIVE_VIP" = "REVIVE (VIP)";
+"VIP_REWARD" = "VIP REWARD";
+"VIP_BONUS_COINS" = "✅ VIP +2000 ⭐";
+"VIP_WELCOME_TITLE" = "👑 Welcome to VIP!";
+"VIP_WELCOME_MSG" = "You have unlocked the ultimate experience:\n\n💰 +2000 Bonus Coins\n🏃 2x Ad-Free Revives Per Game\n📸 Custom Background Photo Upload\n🚫 Completely Ad-Free";
+"AWESOME" = "Awesome!";
+"ADS_REMOVED" = "✅ ADS REMOVED";
+"REMOVE_ADS" = "🚫 REMOVE ADS";
+"RESTORE_PURCHASES" = "🔄 Restore Purchases";
+
+"DAILY_BONUS_CLAIMED" = "✅ Daily bonus claimed — come back tomorrow";
+"DOUBLE_COINS" = "📺 2x Stars (+%d)";
+
+"UPDATE_AVAILABLE_TITLE" = "🎉 Update Available";
+"UPDATE_AVAILABLE_MSG" = "A new version (%@) is available. Update now for the best experience!";
+"UPDATE_NOW" = "Update";
+"LATER" = "Later";

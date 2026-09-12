@@ -1,0 +1,103 @@
+"HIGH_SCORE" = "EN YÜKSEK SKOR: %d";
+"TAP_TO_PLAY" = "OYNAMAK İÇİN DOKUN";
+
+"JOKER_MODE" = "🃏 JOKER MODU";
+
+"GAME_OVER" = "OYUN BİTTİ";
+"SCORE" = "SKOR: %d";
+"BEST" = "EN İYİ: %d";
+"PLAY_AGAIN" = "TEKRAR OYNA";
+"SHARE_SCORE" = "📤  SKORU PAYLAŞ";
+"CONTINUE_COST" = "▶ DEVAM ET  ⭐%d";
+"WATCH_AD_CONTINUE" = "🎬 Reklam İzle = Ücretsiz Devam";
+"NEW_BEST" = "🎉 YENİ REKOR! 🎉";
+"SHARE_TEXT" = "Chromity'de %@ puan yaptım! 🎮🔥 Beni geçebilir misin?";
+"AD_NOT_AVAILABLE" = "Reklam mevcut değil.\nLütfen daha sonra tekrar deneyin.";
+
+"SETTINGS" = "AYARLAR";
+"PRIVACY_POLICY" = "🔒  Gizlilik Politikası";
+"CONTACT_US" = "📧  Bize Ulaşın";
+"HAPTICS_ON" = "📳  Titreşim: AÇIK";
+"HAPTICS_OFF" = "📴  Titreşim: KAPALI";
+"SOUND_ON" = "🔊  Ses: AÇIK";
+"SOUND_OFF" = "🔇  Ses: KAPALI";
+
+"STORE" = "MAĞAZA";
+"SHAPES" = "ŞEKİLLER";
+"PHYSICS" = "FİZİK";
+"FREE_STARS" = "🎁 ÜCRETSİZ 50 YILDIZ 📺";
+"EQUIPPED" = "TAKILDI";
+"OWNED" = "SATIN ALINDI";
+"WATCH_AD" = "🎬 REKLAM";
+"WATCH_AD_UNLOCK" = "🎬 Kilidini açmak için reklam izle";
+"WATCH" = "🎬 İZLE";
+"CLOSE" = "KAPAT";
+"BUY" = "SATIN AL";
+"NEED_COINS" = "YETERSİZ";
+"NOT_ENOUGH_STARS" = "Yıldız yetersiz! ⭐\nOyna veya reklam izle.";
+
+"PAUSED" = "DURAKLATILDI";
+"RESUME" = "DEVAM ET";
+"QUIT" = "ÇIKIŞ";
+"ARE_YOU_SURE" = "Emin misiniz?";
+"YES" = "EVET";
+"NO" = "HAYIR";
+
+"BACKGROUNDS" = "ARKA PLANLAR";
+"CUSTOM_PHOTO" = "Özel Fotoğraf";
+
+"COLOR_MATCHING" = "Renk Eşleştirme Oyunu";
+"MATCH_JUMP_SURVIVE" = "Eşle. Zıpla. Hayatta Kal.";
+"HOW_TO_PLAY" = "NASIL OYNANIR";
+"TAP_TO_JUMP" = "Zıplamak İçin Dokun";
+"TAP_SCREEN_TO_JUMP" = "Zıplamak için ekrana dokun";
+"MATCH_COLORS" = "Renkleri Eşle";
+"PASS_THROUGH_COLOR" = "Kendi renginden geç";
+"COLLECT_STARS" = "Yıldız Topla";
+"USE_COINS_DIE" = "Öldüğünde yıldızlarını kullan";
+"PRO_TIPS" = "İPUÇLARI";
+"EARN_COINS" = "Yıldız Kazan";
+"EARN_COINS_DESC" = "Engelleri geç, yıldız kazan";
+"POWER_BAR" = "Güç Barı";
+"FILL_SHIELD_DESC" = "Barı doldur, kalkan kazan";
+"CUSTOMIZE" = "Kişiselleştir";
+"UNLOCK_SKINS_BG" = "Görünüm ve arka plan kilidi aç";
+"LETS_GO" = "BAŞLAYALIM! 🚀";
+"TAP_TO_CONTINUE" = "Devam için dokun →";
+"TAP_BUTTON_START" = "Başlamak için butona dokun!";
+
+"DAILY_MISSIONS" = "GÜNLÜK GÖREVLER";
+"MISSION_SUBTITLE" = "Görevleri tamamla, yıldız kazan!";
+"CLAIM" = "AL";
+"CHALLENGES" = "BÖLÜMLER";
+"CHALLENGE_SUBTITLE" = "Sonraki bölümün kilidini açmak için hedef skora ulaş!";
+"LEVEL_N" = "BÖLÜM %d";
+"COMPLETE" = "TAMAMLANDI!";
+"REWARD" = "Ödül: ⭐ %d";
+"NEXT_LEVEL" = "SONRAKİ BÖLÜM";
+"MAIN_MENU" = "ANA MENÜ";
+"GOAL" = "HEDEF: %d";
+"MISSION_PLAY_GAMES" = "%d Oyun Oyna";
+"MISSION_COLLECT_STARS" = "%d Yıldız Topla";
+"MISSION_REACH_SCORE" = "%d Skora Ulaş";
+"MISSION_COLLECT_JOKERS" = "%d Joker Yakala";
+"CLAIMED" = "ALINDI";
+"GET_REWARD" = "AL ⭐%d";
+
+"REVIVE_VIP" = "DİRİLME (VIP)";
+"VIP_REWARD" = "VIP ÖDÜL";
+"VIP_BONUS_COINS" = "✅ VIP +2000 ⭐";
+"VIP_WELCOME_TITLE" = "👑 VIP'ye Hoş Geldin!";
+"VIP_WELCOME_MSG" = "Sınırsız premium deneyimin kilidini açtın:\n\n💰 +2000 Bonus Coin\n🏃 Her Oyunda 2 Adet Reklamsız Dirilme\n📸 Kendi Arka Plan Fotoğrafını Yükleme\n🚫 Tamamen Reklamsız";
+"AWESOME" = "Harika!";
+"ADS_REMOVED" = "✅ REKLAMLAR KALDIRILDI";
+"REMOVE_ADS" = "🚫 REKLAM KALDIR";
+"RESTORE_PURCHASES" = "🔄 Satın Alımları Geri Yükle";
+
+"DAILY_BONUS_CLAIMED" = "✅ Günlük bonus alındı — yarın gel";
+"DOUBLE_COINS" = "📺 2x Yıldız (+%d)";
+
+"UPDATE_AVAILABLE_TITLE" = "🎉 Güncelleme Mevcut";
+"UPDATE_AVAILABLE_MSG" = "Yeni bir sürüm (%@) mevcut. En iyi deneyim için şimdi güncelle!";
+"UPDATE_NOW" = "Güncelle";
+"LATER" = "Sonra";
